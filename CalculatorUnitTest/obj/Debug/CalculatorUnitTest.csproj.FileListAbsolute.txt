@@ -1,0 +1,24 @@
+D:\Materi Kuliah\Semester 3\Pemrograman Lanjut\Module Praktikum 05\01 latihan\CalculatorUnitTest\bin\Debug\CalculatorUnitTest.exe.config
+D:\Materi Kuliah\Semester 3\Pemrograman Lanjut\Module Praktikum 05\01 latihan\CalculatorUnitTest\bin\Debug\CalculatorUnitTest.exe
+D:\Materi Kuliah\Semester 3\Pemrograman Lanjut\Module Praktikum 05\01 latihan\CalculatorUnitTest\bin\Debug\CalculatorUnitTest.pdb
+D:\Materi Kuliah\Semester 3\Pemrograman Lanjut\Module Praktikum 05\01 latihan\CalculatorUnitTest\bin\Debug\CalculatorMachine.dll
+D:\Materi Kuliah\Semester 3\Pemrograman Lanjut\Module Praktikum 05\01 latihan\CalculatorUnitTest\bin\Debug\nunit.framework.dll
+D:\Materi Kuliah\Semester 3\Pemrograman Lanjut\Module Praktikum 05\01 latihan\CalculatorUnitTest\bin\Debug\CalculatorMachine.pdb
+D:\Materi Kuliah\Semester 3\Pemrograman Lanjut\Module Praktikum 05\01 latihan\CalculatorUnitTest\bin\Debug\nunit.framework.xml
+D:\Materi Kuliah\Semester 3\Pemrograman Lanjut\Module Praktikum 05\01 latihan\CalculatorUnitTest\obj\Debug\CalculatorUnitTest.csprojAssemblyReference.cache
+D:\Materi Kuliah\Semester 3\Pemrograman Lanjut\Module Praktikum 05\01 latihan\CalculatorUnitTest\obj\Debug\CalculatorUnitTest.csproj.CoreCompileInputs.cache
+D:\Materi Kuliah\Semester 3\Pemrograman Lanjut\Module Praktikum 05\01 latihan\CalculatorUnitTest\obj\Debug\CalculatorUnitTest.csproj.CopyComplete
+D:\Materi Kuliah\Semester 3\Pemrograman Lanjut\Module Praktikum 05\01 latihan\CalculatorUnitTest\obj\Debug\CalculatorUnitTest.exe
+D:\Materi Kuliah\Semester 3\Pemrograman Lanjut\Module Praktikum 05\01 latihan\CalculatorUnitTest\obj\Debug\CalculatorUnitTest.pdb
+D:\USB Drive\Module Praktikum 05\01 latihan\CalculatorUnitTest\bin\Debug\CalculatorUnitTest.exe.config
+D:\USB Drive\Module Praktikum 05\01 latihan\CalculatorUnitTest\bin\Debug\CalculatorUnitTest.exe
+D:\USB Drive\Module Praktikum 05\01 latihan\CalculatorUnitTest\bin\Debug\CalculatorUnitTest.pdb
+D:\USB Drive\Module Praktikum 05\01 latihan\CalculatorUnitTest\bin\Debug\CalculatorMachine.dll
+D:\USB Drive\Module Praktikum 05\01 latihan\CalculatorUnitTest\bin\Debug\nunit.framework.dll
+D:\USB Drive\Module Praktikum 05\01 latihan\CalculatorUnitTest\bin\Debug\CalculatorMachine.pdb
+D:\USB Drive\Module Praktikum 05\01 latihan\CalculatorUnitTest\bin\Debug\nunit.framework.xml
+D:\USB Drive\Module Praktikum 05\01 latihan\CalculatorUnitTest\obj\Debug\CalculatorUnitTest.csproj.AssemblyReference.cache
+D:\USB Drive\Module Praktikum 05\01 latihan\CalculatorUnitTest\obj\Debug\CalculatorUnitTest.csproj.CoreCompileInputs.cache
+D:\USB Drive\Module Praktikum 05\01 latihan\CalculatorUnitTest\obj\Debug\CalculatorUnitTest.csproj.CopyComplete
+D:\USB Drive\Module Praktikum 05\01 latihan\CalculatorUnitTest\obj\Debug\CalculatorUnitTest.exe
+D:\USB Drive\Module Praktikum 05\01 latihan\CalculatorUnitTest\obj\Debug\CalculatorUnitTest.pdb

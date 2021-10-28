@@ -1,0 +1,10 @@
+D:\Materi Kuliah\Semester 3\Pemrograman Lanjut\Module Praktikum 05\01 latihan\CalculatorConsoleTest\obj\Debug\CalculatorConsoleTest.csprojAssemblyReference.cache
+D:\Materi Kuliah\Semester 3\Pemrograman Lanjut\Module Praktikum 05\01 latihan\CalculatorConsoleTest\obj\Debug\CalculatorConsoleTest.csproj.CoreCompileInputs.cache
+D:\Materi Kuliah\Semester 3\Pemrograman Lanjut\Module Praktikum 05\01 latihan\CalculatorConsoleTest\bin\Debug\CalculatorConsoleTest.exe.config
+D:\Materi Kuliah\Semester 3\Pemrograman Lanjut\Module Praktikum 05\01 latihan\CalculatorConsoleTest\bin\Debug\CalculatorConsoleTest.exe
+D:\Materi Kuliah\Semester 3\Pemrograman Lanjut\Module Praktikum 05\01 latihan\CalculatorConsoleTest\bin\Debug\CalculatorConsoleTest.pdb
+D:\Materi Kuliah\Semester 3\Pemrograman Lanjut\Module Praktikum 05\01 latihan\CalculatorConsoleTest\bin\Debug\CalculatorMachine.dll
+D:\Materi Kuliah\Semester 3\Pemrograman Lanjut\Module Praktikum 05\01 latihan\CalculatorConsoleTest\bin\Debug\CalculatorMachine.pdb
+D:\Materi Kuliah\Semester 3\Pemrograman Lanjut\Module Praktikum 05\01 latihan\CalculatorConsoleTest\obj\Debug\CalculatorConsoleTest.csproj.CopyComplete
+D:\Materi Kuliah\Semester 3\Pemrograman Lanjut\Module Praktikum 05\01 latihan\CalculatorConsoleTest\obj\Debug\CalculatorConsoleTest.exe
+D:\Materi Kuliah\Semester 3\Pemrograman Lanjut\Module Praktikum 05\01 latihan\CalculatorConsoleTest\obj\Debug\CalculatorConsoleTest.pdb
