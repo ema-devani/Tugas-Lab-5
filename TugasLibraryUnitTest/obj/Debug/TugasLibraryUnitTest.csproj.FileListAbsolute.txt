@@ -1,0 +1,12 @@
+D:\Materi Kuliah\Semester 3\Pemrograman Lanjut\Module Praktikum 05\02 tugas\TugasLibraryUnitTest\obj\Debug\TugasLibraryUnitTest.csprojAssemblyReference.cache
+D:\Materi Kuliah\Semester 3\Pemrograman Lanjut\Module Praktikum 05\02 tugas\TugasLibraryUnitTest\obj\Debug\TugasLibraryUnitTest.csproj.CoreCompileInputs.cache
+D:\Materi Kuliah\Semester 3\Pemrograman Lanjut\Module Praktikum 05\02 tugas\TugasLibraryUnitTest\bin\Debug\TugasLibraryUnitTest.exe.config
+D:\Materi Kuliah\Semester 3\Pemrograman Lanjut\Module Praktikum 05\02 tugas\TugasLibraryUnitTest\bin\Debug\TugasLibraryUnitTest.exe
+D:\Materi Kuliah\Semester 3\Pemrograman Lanjut\Module Praktikum 05\02 tugas\TugasLibraryUnitTest\bin\Debug\TugasLibraryUnitTest.pdb
+D:\Materi Kuliah\Semester 3\Pemrograman Lanjut\Module Praktikum 05\02 tugas\TugasLibraryUnitTest\bin\Debug\nunit.framework.dll
+D:\Materi Kuliah\Semester 3\Pemrograman Lanjut\Module Praktikum 05\02 tugas\TugasLibraryUnitTest\bin\Debug\TugasLibrary.dll
+D:\Materi Kuliah\Semester 3\Pemrograman Lanjut\Module Praktikum 05\02 tugas\TugasLibraryUnitTest\bin\Debug\TugasLibrary.pdb
+D:\Materi Kuliah\Semester 3\Pemrograman Lanjut\Module Praktikum 05\02 tugas\TugasLibraryUnitTest\bin\Debug\nunit.framework.xml
+D:\Materi Kuliah\Semester 3\Pemrograman Lanjut\Module Praktikum 05\02 tugas\TugasLibraryUnitTest\obj\Debug\TugasLibraryUnitTest.csproj.CopyComplete
+D:\Materi Kuliah\Semester 3\Pemrograman Lanjut\Module Praktikum 05\02 tugas\TugasLibraryUnitTest\obj\Debug\TugasLibraryUnitTest.exe
+D:\Materi Kuliah\Semester 3\Pemrograman Lanjut\Module Praktikum 05\02 tugas\TugasLibraryUnitTest\obj\Debug\TugasLibraryUnitTest.pdb
